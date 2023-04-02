@@ -1,6 +1,6 @@
 {
     "RepositoryName": "Falcon",
-    "RepositoryDescription": "Falcon repo ",
+    "RepositoryDescription": "Mohammed & khaled's repo ",
     "RepositoryAuthor": "L95vz",
     "RepositoryIcon": "https://cdn.discordapp.com/attachments/813615730473304064/1085151394870341642/IMG_2376.jpg",
     "RepositoryWebsite": "https://github.com/falconrepo/Falcon",
@@ -10,7 +10,7 @@
             "Name": "iPhone 14 Pro",
             "Description": "Change iMessage Balloon effects into TrollFace",
             "Author": {
-                "Label": "ChromiumCandy",
+                "Label": "L95vz",
                 "Links": [
                     {
                         "Label": "ChromiumCandy",
