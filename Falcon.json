@@ -22,7 +22,8 @@
           "Icon": "https://cdn.discordapp.com/attachments/772713535464800266/1092067811377033268/images.png",
           "Category": null,
           "Caption": "._.",
-          "Screenshot": https://cdn.discordapp.com/attachments/772713535464800266/1092068794026958928/IMG_0774.jpg,
+          "Screenshot":
+		"https://cdn.discordapp.com/attachments/772713535464800266/1092068794026958928/IMG_0774.jpg"
           "Releases": [
               {
                   "Version": "1.0",
